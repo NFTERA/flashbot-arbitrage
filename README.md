@@ -5,7 +5,7 @@ An arbitrage bot implementation that leverages flash swaps to arbitrage between 
 
 There are a lot of AMMs on Ethereum and other blockchains that support EVM. Many of these AMMs are just forks of Uniswap V2 or share the same interface. A list of these AMMs:
 
-- Pancacke Swap (FTM)
+- Pancacke Swap (BSC)
 - Trader Joe(AVAX)
 - Uniswap V2(Ethereum)
 - Sushi Swap(Ethereum)
