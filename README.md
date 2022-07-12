@@ -1,3 +1,18 @@
+<p align="center">
+  <a href="https://www.npmjs.com/package/hashlips_art_engine">
+    <img alt="downloads" src="https://img.shields.io/npm/dm/hashlips_art_engine.svg?color=blue" target="_blank" />
+  </a>
+  <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
+  </a>
+  <a href="https://codecov.io/gh/kefranabg/readme-md-generator">
+    <img src="https://codecov.io/gh/kefranabg/readme-md-generator/branch/master/graph/badge.svg" />
+  </a>
+  <a href="https://github.com/frinyvonnick/gitmoji-changelog">
+    <img src="https://img.shields.io/badge/changelog-gitmoji-brightgreen.svg" alt="gitmoji-changelog">
+  </a>
+</p>
+
 ### About
 An arbitrage bot implementation that leverages flash swaps to arbitrage between Uniswap V2 AMMs & related forks (Ethereum, Binance Smart Chain, Avalanche).
 
